@@ -1,0 +1,105 @@
+@media screen and (max-width:900px) {
+.btn-mob{
+  background-color: rgba(255,255,255,1);
+  border: 2.5px solid white;
+  border-radius: 25px;
+  padding: 1.5vw 3vw;
+  margin-right: 5vw;
+  color: black;
+  font-size: 75%;
+}
+#facebookmob{
+  padding: 0.5vh 1.5vw;
+  font-size:70%;
+  color: black;
+  border-color: #fff;
+
+  border-style: solid;
+  box-shadow: 0 0 10px rgba(33,33,33,.2);
+
+  border-width: 0.1px;
+  border-radius: 25px;
+}
+#facebookmob:hover{
+
+transition: all 0.5s;
+text-decoration: none;
+border-color: #fff;
+}
+#linkedinmob{
+  padding: 0.5vh 1.5vw;
+  font-size:70%;
+  color: black;
+  border-color: #fff;
+
+  border-style: solid;
+  box-shadow: 0 0 10px rgba(33,33,33,.2);
+
+  border-width: 0.1px;
+  border-radius: 25px;
+}
+#linkedinmob:hover{
+
+transition: all 0.5s;
+text-decoration: none;
+border-color: #fff;
+}
+#twittermob:hover{
+  box-shadow: 0 0 30px rgba(33,33,33,.2);
+
+transition: all 0.5s;
+text-decoration: none;
+border-color: #fff;
+}
+#twittermob{
+  padding: 0.5vh 1.5vw;
+  font-size:70%;
+  color: black;
+  border-color: #fff;
+
+  border-style: solid;
+  box-shadow: 0 0 10px rgba(33,33,33,.2);
+
+  border-width: 0.1px;
+  border-radius: 25px;
+}
+.sharemob{
+  text-align: center;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+
+}
+.mob-layer{
+  margin: 12vh 2% 5% 2%;
+}
+
+.help-mob{
+  width: 80%;
+/* max-height: 200px; */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.imag-mob{
+  width: 95%;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 0 0 30px rgba(33,33,33,.2);
+}
+}
+.anchor{
+  color: white;
+  text-decoration: none;
+}
+.anchor:hover{
+  color: white;
+  text-decoration: none;
+}
+.anchor-black{
+  color: black;
+  text-decoration: none;
+}
+.anchor-black:hover{
+  color: black;
+  text-decoration: none;
+}
